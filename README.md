@@ -1,5 +1,11 @@
 
 
+Intended to provide a light-weight in-browser UI for creating and updating graphs.
+
+Inspiration:
+
+* https://cytoscape.org/cytoscape.js-klay/
+
 The Visual Systems UI is split into the following pieces:
 
 ### Simple Graph Layer
