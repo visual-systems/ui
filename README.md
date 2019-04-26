@@ -2,6 +2,8 @@
 
 Intended to provide a light-weight in-browser UI for creating and updating graphs.
 
+Code is included in `browser`.
+
 Inspiration:
 
 * https://cytoscape.org/cytoscape.js-klay/
