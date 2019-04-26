@@ -12,6 +12,9 @@ The Visual Systems UI is split into the following pieces:
 
 * Visualise a graph (Data-Import)
 * Show nodes, edges
+* Browser / Tree of components
+* Attribute viewer/editor
+* Runner with Data-Input
 * Allow actions:
 	- Select items to view attributes
 	- Create a new node
