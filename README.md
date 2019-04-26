@@ -16,9 +16,21 @@ The Visual Systems UI is split into the following pieces:
 		+ Possibly through attributes
 	- Undo
 	- Dive into a node
+	- Exit out of a node
+	- Browse list / heirachy of nodes
+	- Expand nodes in place
+	- Create boundaries
+	- Destroy boundaries
+	- Hook: What nodes to allow edge to
 
 ### Data-Export
 
+* Export to cannonical representation of graph with decorations
+
 ### Type-Checking
 
+* Integration of type-checker for graph structure as a connection hook
+
 ### Data-Import
+
+* Type-checking on load
