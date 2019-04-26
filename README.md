@@ -14,6 +14,7 @@ The Visual Systems UI is split into the following pieces:
 
 * Panes: https://zesik.com/react-splitter-layout/#/percentage
 * Graphs: https://cytoscape.org/cytoscape.js-klay/
+* Types: https://dhall-lang.org/#
 
 ### Simple Graph Layer
 
